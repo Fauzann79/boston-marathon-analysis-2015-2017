@@ -282,9 +282,11 @@ Country-level analysis was performed to identify differences in average finishin
 | CHI     |             209 min |
 | GUA     |             211 min |
 
-The dataset shows substantial differences in average finishing times between the countries displayed.
-
-Kenya and Ethiopia have the lowest average finishing times among the highlighted countries.
+The dataset shows substantial differences in average finishing times
+between the countries displayed. Kenya and Ethiopia have the lowest
+average finishing times among the highlighted countries, though both
+were excluded from the main ranking due to sample sizes below the
+30-runner/country threshold.
 
 ### Elite Runner Performance
 
