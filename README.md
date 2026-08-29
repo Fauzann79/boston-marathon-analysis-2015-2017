@@ -421,6 +421,8 @@ The highest density shown in the dashboard occurs in the **20-year age group at 
 
 This analysis provides another perspective on the relationship between age group and elite runner representation within the dataset.
 
+![Elite Runner Density by Age Group](images/Elite-Runner.png)
+
 ---
 
 # 🔎 Key Findings
