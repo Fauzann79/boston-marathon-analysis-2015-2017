@@ -607,20 +607,31 @@ Recommendations
 ```text
 Marathon-Performance-Analysis/
 │
-├── datasets
-    ├── boston-marathon2015.csv
-    ├── boston-marathon2016.csv
-    ├── boston-marathon2017.csv
-├── scripts
-    ├── data_cleaning.sql
-    ├── eda_queries.sql
-    ├── advanced_analysis.sql
+├── datasets/
+│   ├── boston-marathon2015.csv
+│   ├── boston-marathon2016.csv
+│   └── boston-marathon2017.csv
 │
-└── images/
-    ├── page-1-performance-overview.png
-    ├── page-2-demographic-performance.png
-    ├── page-3-race-strategy.png
-    └── page-4-additional-findings.png
+├── scripts/
+│   ├── data_cleaning.sql
+│   ├── eda_queries.sql
+│   └── advanced_analysis.sql
+│
+├── images/
+│   ├── dashboard-1.png
+│   ├── dashboard-2.png
+│   ├── dashboard-3.png
+│   ├── dashboard-4.png
+│   ├── finishtimedis.png
+│   ├── participationbyyear.png
+│   ├── demographic-performance.png
+│   ├── country-performance.png
+│   ├── Elite-Runner.png
+│   ├── pacing-analysis.png
+│   └── Returning-Runner-Analysis.png
+│
+├── LICENSE
+└── README.md
 ```
 
 ---
