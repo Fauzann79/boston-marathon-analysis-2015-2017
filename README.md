@@ -1,4 +1,4 @@
-# Marathon Performance Analysis
+# Boston Marathon 2015-2017 Performance Analysis
 
 Welcome to the **Marathon Performance Analysis** repository!
 
