@@ -192,7 +192,7 @@ This indicates that the marathon maintained a relatively consistent participant 
 
 ### Visualization
 
-![Participation Trend](images/participation-trend.png)
+![Participation Trend](images/participation by year.png)
 
 ---
 
