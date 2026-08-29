@@ -607,10 +607,14 @@ Recommendations
 ```text
 Marathon-Performance-Analysis/
 │
-├── README.md
-├── marathon.csv
-├── analysis.sql
-├── marathon.pbix
+├── datasets
+    ├── boston-marathon2015.csv
+    ├── boston-marathon2016.csv
+    ├── boston-marathon2017.csv
+├── scripts
+    ├── data_cleaning.sql
+    ├── eda_queries.sql
+    ├── advanced_analysis.sql
 │
 └── images/
     ├── page-1-performance-overview.png
