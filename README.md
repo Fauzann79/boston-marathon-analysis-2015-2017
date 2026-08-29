@@ -391,7 +391,7 @@ Instead of looking only at the total population, returning runners allow perform
 | Performance Improved    |    26.80% |
 | Performance Worsened    |    73.20% |
 
-![Returning Runner Analysis](images/returning-runner-analysis.png)
+![Returning Runner Analysis](images/Returning-Runner-Analysis.png)
 
 The analysis shows that:
 
