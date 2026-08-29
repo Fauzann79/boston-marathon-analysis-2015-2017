@@ -542,19 +542,19 @@ The final analysis was developed using **Microsoft Power BI**.
 
 ### Performance Overview
 
-![Performance Overview](images/page-1-performance-overview.png)
+![Performance Overview](images/dashboard-1.png)
 
 ### Demographic & Performance Analysis
 
-![Demographic Performance](images/page-2-demographic-performance.png)
+![Demographic Performance](images/dashboard-2.png)
 
 ### Race Strategy & Pace Analysis
 
-![Race Strategy](images/page-3-race-strategy.png)
+![Race Strategy](images/dashboard-3.png)
 
 ### Additional Findings
 
-![Additional Findings](images/page-4-additional-findings.png)
+![Additional Findings](images/dashboard-3.png)
 
 The dashboard combines all analytical areas into an interactive reporting environment where users can explore marathon performance from multiple perspectives.
 
