@@ -215,7 +215,7 @@ This difference indicates that the distribution of finishing times is affected b
 
 ### Finish Time Distribution
 
-![Finish Time Distribution](images/finish-time-distribution.png)
+![Finish Time Distribution](images/finishtimedis.png)
 
 The distribution visualization provides additional context by showing how finishing times are spread across participants rather than relying only on a single average value.
 
